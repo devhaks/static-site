@@ -27,8 +27,8 @@ phases:
       # - command
 artifacts:
   files:
-     - index.html
-#   - static/*
+    - index.html
+    - static/*
   #name: $(date +%Y-%m-%d)
   #discard-paths: yes
   #base-directory: location
