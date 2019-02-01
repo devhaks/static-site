@@ -9,10 +9,10 @@ version: 0.2
      # key: "value"
 
 phases:
-  #install:
-    #commands:
-      # - command
-      # - command
+  install:
+    commands:
+      - pwd
+      - ls -al
   #pre_build:
     #commands:
       # - command
