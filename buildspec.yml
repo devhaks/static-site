@@ -29,7 +29,7 @@ artifacts:
   files:
     - index.html
     - static/*
-  #name: $(date +%Y-%m-%d)
+  name: dist
   #discard-paths: yes
   #base-directory: location
 #cache:
